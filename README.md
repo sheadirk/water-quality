@@ -1,4 +1,4 @@
-Repository includes data, R project, and .R files
+# Repository includes data, R project, and .R files
 
-.R files include:
+# .R files include:
 # 1. craine-cslap.R = linear regression models of long-term citizen science data from M.S. thesis
