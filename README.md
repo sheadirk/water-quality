@@ -4,5 +4,9 @@ craine-cslap.R = linear regression models of long-term citizen science water qua
 
 craine-linegraphs.R = depth profiles using seasonal YSI data 
 
+craine-nutrient-lines.R = depth profiles of nutrient data from laboratory analyses
+
+
+
 
 
