@@ -5,7 +5,7 @@ library(AICcmodavg)
 library(car)
 
 # Data read ----
-zoopers <- read.csv("shea_zoop.csv")
+zoopers <- read.csv("data/shea_zoop.csv")
 
 glimpse(zoopers)
 
